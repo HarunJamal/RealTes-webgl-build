@@ -86,8 +86,9 @@
   .video-footer{
     grid-row: 3/4;
     grid-column: 1;
-    font-size: 6px;
+    font-size: 12px;
   }
+
   /* OTHER STYLES */
   
   body {

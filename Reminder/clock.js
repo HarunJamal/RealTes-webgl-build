@@ -84,7 +84,7 @@ function alarmSet() {
 
     var ap = document.getElementById('ampm');
 
-    var msg = prompt("Reminder message")
+    var msg = prompt("Reminder message");
 
 
     var selectedHour = hr.options[hr.selectedIndex].value;
