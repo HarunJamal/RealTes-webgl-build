@@ -68,7 +68,7 @@ input {
 #video-btn {
     background-color: gray;
     color: white;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 #join:hover,
